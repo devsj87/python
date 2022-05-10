@@ -2,5 +2,11 @@
 Include
 Lib
 Scripts
-pyvenv.cfg
+
 # Mac
+include
+bin
+Lib
+
+# common
+pyvenv.cfg
