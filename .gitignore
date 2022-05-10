@@ -6,7 +6,7 @@ Scripts
 # Mac
 include
 bin
-Lib
+lib
 
 # common
 pyvenv.cfg
