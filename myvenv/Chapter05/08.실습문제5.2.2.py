@@ -22,5 +22,5 @@ empty.append(g)
 avg = (a + b + c + d + e + f + g)/7
 
 print(empty)
-print(int(avg))22
+print(int(avg))
 
