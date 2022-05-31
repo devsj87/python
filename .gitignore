@@ -10,3 +10,4 @@ lib
 
 # common
 pyvenv.cfg
+*.pyc
