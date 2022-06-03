@@ -4,7 +4,7 @@ won = input("원화 금액을 입력하세요 >>> ")
 dollar = input("환율을 입력하세요. >>> ")
 
 try: # 예외가 발생 할수 있는 코드
-    print( int(won) / int(dollar ))
+    print( int(won) / int(dollar) )
 except ValueError as e: # 예외가 발생했을때 실행하는 코드
     print('예외가 발생했습니다.', e)
 except ZeroDivisionError as e: 
